@@ -36,7 +36,7 @@ def convert_again():
             else:
                 break
         except KeyError:
-            message = input("Looks like there was an invalid input. Please type again your message to convert: ")
+            print("Looks like there was an invalid input.")
             continue
         else:
             break
