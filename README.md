@@ -27,7 +27,7 @@
   ```
 ## Result
 Given results looks as follows:
--  'Hello everyone'
+- 'Hello everyone'
   ```
   .... . .-.. .-.. --- / . ...- . .-. -.-- --- -. .
   ```
