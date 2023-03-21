@@ -25,4 +25,15 @@
   ```
   Do you want to convert again? Type yes or no: 
   ```
-
+## Result
+Given results looks as follows:
+-  'Hello everyone'
+  ```
+  .... . .-.. .-.. --- / . ...- . .-. -.-- --- -. .
+  ```
+- ' .... . .-.. .-.. --- / . ...- . .-. -.-- --- -. . '
+  ```
+  HELLO EVERYONE
+  ```
+  
+  
